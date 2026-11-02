@@ -1,0 +1,8 @@
+Student Name: Radha
+Student ID: 1842
+Java Marks: 94
+SQL Marks: 60
+Python Marks: 85
+Total Marks: 239/300
+Percentage: 79.66666666666667%
+Grade: B

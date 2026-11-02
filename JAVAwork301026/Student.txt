@@ -1,0 +1,9 @@
+Student Name: TulipSarwajith
+Student ID: 1841
+Student Age: 23
+Student Course: JAVA
+
+Student Name: Shiva
+Student ID: 1840
+Student Age: 23
+Student Course: CSE
